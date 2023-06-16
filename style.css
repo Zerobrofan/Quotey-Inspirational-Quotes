@@ -76,6 +76,6 @@ body {
         bottom: 0;
         right: 0;
         font-family: Arial;
-        font-size: calc(10px + 0.390625vw);
-        margin: 20px;
+            font-size: calc(10px + 0.390625vw);
+            margin: 20px;
 }
