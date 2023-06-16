@@ -23,7 +23,7 @@ body {
 }
 
 .author {
-    font-size: calc(12px + 0.390625vw);
+    font-size: calc(15px + 0.390625vw);
     font-style: italic;
     text-align: right;
     margin-bottom: 30px;
@@ -41,7 +41,7 @@ body {
     border-radius: 31px;
     font-family: Arial;
     color: #ffffff;
-    font-size: calc(10px + 0.390625vw);
+    font-size: calc(12px + 0.390625vw);
     padding: 10px 20px 10px 20px;
     text-decoration: none;
 }
@@ -58,7 +58,7 @@ body {
 
 .check{
     font-family: Arial;
-    font-size: calc(10px + 0.390625vw);
+    font-size: calc(12px + 0.390625vw);
     margin-top: 30px;
 }
 
@@ -67,6 +67,15 @@ body {
     bottom: 0;
     left: 0;
     font-family: Arial;
-    font-size: calc(5px + 0.390625vw);
+    font-size: calc(10px + 0.390625vw);
     margin: 20px;
+}
+
+.contact{
+    position: absolute;
+        bottom: 0;
+        right: 0;
+        font-family: Arial;
+        font-size: calc(10px + 0.390625vw);
+        margin: 20px;
 }
