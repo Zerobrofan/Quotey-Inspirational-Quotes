@@ -54,6 +54,7 @@ body {
     background-image: -o-linear-gradient(top, #292929, #525252);
     background-image: linear-gradient(to bottom, #292929, #525252);
     text-decoration: none;
+    cursor: pointer;
 }
 
 .check{
