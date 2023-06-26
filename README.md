@@ -21,5 +21,5 @@
 collection, ensuring a wide variety of insights, wisdom, and perspectives. Each quote is carefully selected to bring you inspiration, motivation, and a fresh perspective on life.
 
 ## Extension 👾
-🌟 Check it out on the chrome store here: https://chrome.google.com/webstore/detail/quotey-inspirational-quot/ebnpdkkegnoebjdedjnnnohpmabamggf?hl=en&authuser=0
+🌟 Check it out on the chrome store here: https://chrome.google.com/webstore/detail/quotey-inspirational-quot/ebnpdkkegnoebjdedjnnnohpmabamggf?hl=en&authuser=0 <br><br>
 🌐 Access the web app here: https://zerobrofan.github.io/Quotey-Inspirational-Quotes/index.html
