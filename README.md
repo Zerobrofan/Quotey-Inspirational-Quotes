@@ -1,5 +1,11 @@
 # Quotey - Inspirational Quotes
-![ghub](https://github.com/Zerobrofan/Quotey-Inspirational-Quotes/assets/100843256/da93e41f-2be6-4671-a4f3-8607f22e4978)
+<div align="center" id="top">
+  <img src="https://github.com/Zerobrofan/Quotey-Inspirational-Quotes/assets/100843256/5aac7236-cc45-4199-8ecf-8c6bfbb0f62b" width="900" alt="Quotey - Inspirational Quotes" />
+
+  <a href="https://chrome.google.com/webstore/detail/quotey-inspirational-quot/ebnpdkkegnoebjdedjnnnohpmabamggf?hl=en&authuser=0">👾 View extension -></a> &#xa0; | &#xa0;
+  <a href="https://zerobrofan.github.io/Quotey-Inspirational-Quotes/index.html">🌐 View web app -></a>
+</div>
+
 
 ## What is Quotey 📖?
 [Quotey](https://chrome.google.com/webstore/detail/quotey-inspirational-quot/ebnpdkkegnoebjdedjnnnohpmabamggf?hl=en&authuser=0) is a simple Chrome extension that displays a random inspirational quote and it's author in a small popup window.
@@ -20,6 +26,5 @@
 • <b>Randomized Quotes:</b> The extension fetches quotes from a curated 
 collection, ensuring a wide variety of insights, wisdom, and perspectives. Each quote is carefully selected to bring you inspiration, motivation, and a fresh perspective on life.
 
-## Extension 👾
-🌟 Check it out on the chrome store here: https://chrome.google.com/webstore/detail/quotey-inspirational-quot/ebnpdkkegnoebjdedjnnnohpmabamggf?hl=en&authuser=0 <br><br>
-🌐 Access the web app here: https://zerobrofan.github.io/Quotey-Inspirational-Quotes/index.html
+## Open Source 👐
+[Quotey](https://chrome.google.com/webstore/detail/quotey-inspirational-quot/ebnpdkkegnoebjdedjnnnohpmabamggf?hl=en&authuser=0) is completely <b>OPEN SOURCE</b>, so feel free to check out the code and contribute your changes 👨‍💻.
