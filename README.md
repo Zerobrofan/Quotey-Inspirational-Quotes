@@ -3,7 +3,7 @@
   <img src="https://github.com/Zerobrofan/Quotey-Inspirational-Quotes/assets/100843256/5aac7236-cc45-4199-8ecf-8c6bfbb0f62b" width="900" alt="Quotey - Inspirational Quotes" />
 
   <a href="https://chrome.google.com/webstore/detail/quotey-inspirational-quot/ebnpdkkegnoebjdedjnnnohpmabamggf?hl=en&authuser=0">👾 View extension -></a> &#xa0; | &#xa0;
-  <a href="quoteyextension.com">🌐 View web app -></a>
+  <a href="https://quoteyextension.com/">🌐 View web app -></a>
 </div>
 
 
