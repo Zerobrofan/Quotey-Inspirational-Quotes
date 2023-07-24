@@ -28,3 +28,9 @@ collection, ensuring a wide variety of insights, wisdom, and perspectives. Each 
 
 ## Open Source 👐
 [Quotey](https://chrome.google.com/webstore/detail/quotey-inspirational-quot/ebnpdkkegnoebjdedjnnnohpmabamggf?hl=en&authuser=0) is completely <b>OPEN SOURCE</b>, so feel free to check out the code and contribute your changes 👨‍💻.
+
+## Updates 🆙
+### 1.0.1
+- Cleaned up some code 🧹 , changed description.
+### 1.0.2
+- The API I was using seemed to have broken somehow 😅. Migrated to <a href="https://github.com/lukePeavey/quotable">Quotable</a>, an open source quotes library by <a href="https://github.com/lukePeavey">Luke Peavey</a>.
