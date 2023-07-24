@@ -1,18 +1,24 @@
 document.addEventListener('DOMContentLoaded', () => {
     getQuote();
+    var genButton = document.getElementById('btn');
+    // onClick's logic below:
+    genButton.addEventListener('click', function () {
+        getQuote();
+    })
 });
+
 
 async function getQuote() {
     try {
-        const response = await fetch("https://type.fit/api/quotes");
+        const response = await fetch("https://api.quotable.io/random");
         const data = await response.json();
-        const randomIndex = Math.floor(Math.random() * data.length);
+
         const quoteElement = document.getElementById('quote');
         const authorElement = document.getElementById('author');
 
         if (quoteElement && authorElement) {
-            const quote = data[randomIndex].text;
-            const author = "~ "+ data[randomIndex].author || "~ null";
+            const quote = data.content;
+            const author = "~ " + data.author || "~ null";
             quoteElement.innerHTML = quote;
             authorElement.innerHTML = author;
         }
