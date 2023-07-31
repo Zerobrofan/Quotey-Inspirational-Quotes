@@ -35,4 +35,6 @@ collection, ensuring a wide variety of insights, wisdom, and perspectives. Each 
 ### 1.0.2
 - The API I was using, <a href="https://type.fit/api/quotes">typefit</a> , seemed to have broken somehow 😅. Migrated to <a href="https://github.com/lukePeavey/quotable">Quotable</a>, an open source quotes API by <a href="https://github.com/lukePeavey">Luke Peavey</a>.
 ### 1.0.3
-- Added a secondary API from <a href="https://api-ninjas.com/">API Ninjas</a> to fallback to. <a href="https://github.com/lukePeavey/quotable">Quotable</a> seems to go down alot either due to an expired DNSSEC key or a high volume of requests. 
+- Added a secondary API from <a href="https://api-ninjas.com/">API Ninjas</a> to fallback to. <a href="https://github.com/lukePeavey/quotable">Quotable</a> seems to go down alot either due to an expired DNSSEC key or a high volume of requests.
+### 1.0.4
+- Fixed/cleaned some code. Changed error handling to log errors to both the console and the extension.
