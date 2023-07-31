@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
     "name": "Quotey - Inspirational Quotes",
-    "version": "1.0.2",
-    "description": "A chrome extension that displays random inspirational quotes and their authors in a popup window.",
+    "version": "1.0.4",
+    "description": "A chrome extension that displays a random inspirational quote and it's author in a popup window.",
     "icons": {
         "16": "icon16.png",
         "48": "icon48.png",
