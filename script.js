@@ -27,7 +27,7 @@ async function getQuote() {
         // If the first API fails, try the second API as a fallback
         try {
             const category = 'inspirational';
-            const apiKey = 'XPaFGerzGF995V+dCY2fmw==D7GQLuMNoa8GLUlj';
+            const apiKey = '[YOUR-API-KEY]';
             const response = await fetch(`https://api.api-ninjas.com/v1/quotes?category=${category}`, {
                 headers: {
                     'X-Api-Key': apiKey
