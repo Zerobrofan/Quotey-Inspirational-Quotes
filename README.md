@@ -2,13 +2,16 @@
 <div align="center" id="top">
   <img src="https://github.com/Zerobrofan/Quotey-Inspirational-Quotes/assets/100843256/5aac7236-cc45-4199-8ecf-8c6bfbb0f62b" width="900" alt="Quotey - Inspirational Quotes" />
 
-  <a href="https://chrome.google.com/webstore/detail/quotey-inspirational-quot/ebnpdkkegnoebjdedjnnnohpmabamggf?hl=en&authuser=0">👾 View extension -></a> &#xa0; | &#xa0;
+  <a href="https://chrome.google.com/webstore/detail/quotey-inspirational-quot/ebnpdkkegnoebjdedjnnnohpmabamggf?hl=en&authuser=0">👾 View Chrome extension -></a> &#xa0; | &#xa0;
+  <a href="https://addons.mozilla.org/en-US/firefox/addon/quotey-inspirational-quotes/">🦊 View Firefox extension -></a> &#xa0; | &#xa0;
   <a href="https://quoteyextension.com/">🌐 View web app -></a>
 </div>
 
 
+<br>
+
 ## What is Quotey 📖?
-[Quotey](https://chrome.google.com/webstore/detail/quotey-inspirational-quot/ebnpdkkegnoebjdedjnnnohpmabamggf?hl=en&authuser=0) is a simple Chrome extension that displays a random inspirational quote and it's author in a small popup window.
+[Quotey](https://chrome.google.com/webstore/detail/quotey-inspirational-quot/ebnpdkkegnoebjdedjnnnohpmabamggf?hl=en&authuser=0) is an extension for Chrome and Firefox that displays a random inspirational quote and it's author in a small popup window.
 
 ### How to use 📙:<br>
 1 - Install the extension.<br>
@@ -38,3 +41,5 @@ collection, ensuring a wide variety of insights, wisdom, and perspectives. Each 
 - Added a secondary API from <a href="https://api-ninjas.com/">API Ninjas</a> to fallback to. <a href="https://github.com/lukePeavey/quotable">Quotable</a> seems to go down alot either due to an expired DNSSEC key or a high volume of requests.
 ### 1.0.4
 - Fixed/cleaned some code. Changed error handling to log errors to both the console and the extension.
+### 1.0.5
+- Migrated to the latest Manifest V3 JSON format, imported the extension to Firefox 🦊. Check it out [here](https://addons.mozilla.org/en-US/firefox/addon/quotey-inspirational-quotes/).
