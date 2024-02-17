@@ -11,7 +11,7 @@
 <br>
 
 ## What is Quotey 📖?
-[Quotey](https://chrome.google.com/webstore/detail/quotey-inspirational-quot/ebnpdkkegnoebjdedjnnnohpmabamggf?hl=en&authuser=0) is an extension for Chrome and Firefox that displays a random inspirational quote and it's author in a small popup window.
+[Quotey](https://chrome.google.com/webstore/detail/quotey-inspirational-quot/ebnpdkkegnoebjdedjnnnohpmabamggf?hl=en&authuser=0) is an extension for Chrome/Chromium, Edge and Firefox that displays a random inspirational quote and it's author in a small popup window.
 
 ### How to use 📙:<br>
 1 - Install the extension.<br>
