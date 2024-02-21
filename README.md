@@ -42,5 +42,5 @@ collection, ensuring a wide variety of insights, wisdom, and perspectives. Each 
 - Added a secondary API from <a href="https://api-ninjas.com/">API Ninjas</a> to fallback to. <a href="https://github.com/lukePeavey/quotable">Quotable</a> seems to go down alot either due to an expired DNSSEC key or a high volume of requests.
 ### 1.0.4
 - Fixed/cleaned some code. Changed error handling to log errors to both the console and the extension.
-### 1.0.5
-- Migrated to the latest Manifest V3 JSON format, imported the extension to Firefox 🦊. Check it out [here](https://addons.mozilla.org/en-US/firefox/addon/quotey-inspirational-quotes/).
+### 1.0.5 / 1.0.6
+- Migrated to the latest Manifest V3 JSON format, imported the extension to [Firefox 🦊](https://addons.mozilla.org/en-US/firefox/addon/quotey-inspirational-quotes/) and [Microsoft Edge 🌌](https://addons.mozilla.org/en-US/firefox/addon/quotey-inspirational-quotes/).
