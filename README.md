@@ -4,6 +4,7 @@
 
   <a href="https://chrome.google.com/webstore/detail/quotey-inspirational-quot/ebnpdkkegnoebjdedjnnnohpmabamggf?hl=en&authuser=0">👾 View Chrome extension -></a> &#xa0; | &#xa0;
   <a href="https://addons.mozilla.org/en-US/firefox/addon/quotey-inspirational-quotes/">🦊 View Firefox extension -></a> &#xa0; | &#xa0;
+  <a href="https://microsoftedge.microsoft.com/addons/detail/quotey-inspirational-qu/anoemnfefkhjfmlngokolbbpmhoiclbd">🌌 View Edge extension -></a> &#xa0; | &#xa0;
   <a href="https://quoteyextension.com/">🌐 View web app -></a>
 </div>
 
